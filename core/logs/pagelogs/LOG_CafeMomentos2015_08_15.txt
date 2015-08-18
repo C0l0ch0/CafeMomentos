@@ -1,0 +1,665 @@
+[2015-08-15 17:48:57] ----------------Iniciando Intancias---------------
+[2015-08-15 17:48:57] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:48:57] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:48:57] ----------------Iniciando Intancias---------------
+[2015-08-15 17:48:57] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:48:57] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:48:57] ----------------Iniciando Intancias---------------
+[2015-08-15 17:48:57] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:48:57] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:48:57] ----------------Iniciando Intancias---------------
+[2015-08-15 17:48:57] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:48:57] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:48:57] ----------------Iniciando Intancias---------------
+[2015-08-15 17:48:57] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:48:57] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:48:58] ----------------Iniciando Intancias---------------
+[2015-08-15 17:48:58] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:48:58] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:48:58] ----------------Iniciando Intancias---------------
+[2015-08-15 17:48:58] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:48:58] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:16] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:16] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:16] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:16] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:16] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:16] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:16] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:16] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:16] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:16] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:16] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:16] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:16] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:16] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:16] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:16] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:16] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:16] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:16] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:16] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:16] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:24] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:24] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:24] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:24] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:24] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:24] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:24] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:24] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:24] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:24] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:24] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:24] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:24] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:24] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:24] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:24] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:24] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:24] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:24] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:24] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:24] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:35] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:35] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:35] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:35] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:35] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:35] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:35] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:35] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:35] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:35] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:35] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:35] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:35] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:35] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:35] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:35] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:35] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:35] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:35] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:35] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:35] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:35] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:35] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:35] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:35] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:35] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:35] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:35] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:35] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:35] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:35] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:35] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:35] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:35] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:35] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:35] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:35] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:35] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:35] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:35] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:35] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:35] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:40] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:40] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:40] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:40] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:40] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:40] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:40] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:40] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:40] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:40] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:40] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:40] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:40] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:40] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:40] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:40] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:40] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:40] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:40] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:40] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:40] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:48] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:48] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:48] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:48] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:48] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:48] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:48] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:48] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:48] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:48] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:48] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:48] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:48] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:48] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:48] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:48] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:48] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:48] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:48] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:48] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:48] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:53] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:53] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:53] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:53] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:53] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:53] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:53] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:53] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:53] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:53] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:53] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:53] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:53] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:53] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:53] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:53] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:53] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:53] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:49:53] ----------------Iniciando Intancias---------------
+[2015-08-15 17:49:53] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:49:53] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:50:23] ----------------Iniciando Intancias---------------
+[2015-08-15 17:50:23] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:50:23] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:50:23] ----------------Iniciando Intancias---------------
+[2015-08-15 17:50:23] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:50:23] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:50:23] ----------------Iniciando Intancias---------------
+[2015-08-15 17:50:23] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:50:23] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:50:23] ----------------Iniciando Intancias---------------
+[2015-08-15 17:50:23] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:50:23] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:50:23] ----------------Iniciando Intancias---------------
+[2015-08-15 17:50:23] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:50:23] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:50:23] ----------------Iniciando Intancias---------------
+[2015-08-15 17:50:23] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:50:23] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:50:23] ----------------Iniciando Intancias---------------
+[2015-08-15 17:50:23] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:50:23] Redireccionando -> http://localhost/CafeMomentos/login/start
+[2015-08-15 17:51:23] ----------------Iniciando Intancias---------------
+[2015-08-15 17:51:23] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:51:23] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:51:23] ----------------Iniciando Intancias---------------
+[2015-08-15 17:51:23] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:51:23] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:51:23] ----------------Iniciando Intancias---------------
+[2015-08-15 17:51:23] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:51:23] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:51:23] ----------------Iniciando Intancias---------------
+[2015-08-15 17:51:23] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:51:23] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:51:23] ----------------Iniciando Intancias---------------
+[2015-08-15 17:51:23] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:51:23] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:51:23] ----------------Iniciando Intancias---------------
+[2015-08-15 17:51:23] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:51:23] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:51:23] ----------------Iniciando Intancias---------------
+[2015-08-15 17:51:23] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:51:23] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:52:38] ----------------Iniciando Intancias---------------
+[2015-08-15 17:52:38] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:52:38] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:52:38] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:52:38] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:52:38] ----------------Iniciando Intancias---------------
+[2015-08-15 17:52:38] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:52:38] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:52:38] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:52:38] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:52:38] ----------------Iniciando Intancias---------------
+[2015-08-15 17:52:38] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:52:38] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:52:38] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:52:38] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:52:38] ----------------Iniciando Intancias---------------
+[2015-08-15 17:52:38] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:52:38] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:52:38] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:52:38] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:52:39] ----------------Iniciando Intancias---------------
+[2015-08-15 17:52:39] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:52:39] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:52:39] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:52:39] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:52:39] ----------------Iniciando Intancias---------------
+[2015-08-15 17:52:39] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:52:39] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:52:39] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:52:39] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:52:39] ----------------Iniciando Intancias---------------
+[2015-08-15 17:52:39] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:52:39] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:52:39] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:52:39] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:53:05] ----------------Iniciando Intancias---------------
+[2015-08-15 17:53:05] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:53:05] ----------------Iniciando Intancias---------------
+[2015-08-15 17:53:05] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:53:05] ----------------Iniciando Intancias---------------
+[2015-08-15 17:53:05] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:53:05] ----------------Iniciando Intancias---------------
+[2015-08-15 17:53:05] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:53:05] ----------------Iniciando Intancias---------------
+[2015-08-15 17:53:05] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:53:05] ----------------Iniciando Intancias---------------
+[2015-08-15 17:53:05] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:53:05] ----------------Iniciando Intancias---------------
+[2015-08-15 17:53:05] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 17:53:05] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:54:52] ----------------Iniciando Intancias---------------
+[2015-08-15 17:54:52] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:54:52] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:54:52] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:54:52] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:54:52] ----------------Iniciando Intancias---------------
+[2015-08-15 17:54:52] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:54:52] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:54:52] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:54:52] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:54:52] ----------------Iniciando Intancias---------------
+[2015-08-15 17:54:52] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:54:52] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:54:52] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:54:52] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:54:52] ----------------Iniciando Intancias---------------
+[2015-08-15 17:54:52] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:54:52] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:54:52] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:54:52] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:54:52] ----------------Iniciando Intancias---------------
+[2015-08-15 17:54:52] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:54:52] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:54:52] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:54:52] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:54:52] ----------------Iniciando Intancias---------------
+[2015-08-15 17:54:52] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:54:52] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:54:52] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:54:52] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:54:52] ----------------Iniciando Intancias---------------
+[2015-08-15 17:54:52] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:54:52] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:54:52] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:54:52] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:55:04] ----------------Iniciando Intancias---------------
+[2015-08-15 17:55:04] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:04] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:55:04] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:04] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:55:04] ----------------Iniciando Intancias---------------
+[2015-08-15 17:55:04] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:04] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:55:04] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:04] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:55:04] ----------------Iniciando Intancias---------------
+[2015-08-15 17:55:04] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:04] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:55:04] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:04] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:55:04] ----------------Iniciando Intancias---------------
+[2015-08-15 17:55:04] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:04] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:55:04] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:04] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:55:04] ----------------Iniciando Intancias---------------
+[2015-08-15 17:55:04] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:04] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:55:04] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:04] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:55:04] ----------------Iniciando Intancias---------------
+[2015-08-15 17:55:04] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:04] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:55:04] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:04] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:55:04] ----------------Iniciando Intancias---------------
+[2015-08-15 17:55:04] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:04] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:55:04] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:04] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:55:10] ----------------Iniciando Intancias---------------
+[2015-08-15 17:55:10] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:10] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:55:10] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:10] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:55:10] ----------------Iniciando Intancias---------------
+[2015-08-15 17:55:10] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:10] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:55:10] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:10] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:55:10] ----------------Iniciando Intancias---------------
+[2015-08-15 17:55:10] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:10] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:55:10] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:10] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:55:10] ----------------Iniciando Intancias---------------
+[2015-08-15 17:55:10] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:10] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:55:10] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:10] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:55:10] ----------------Iniciando Intancias---------------
+[2015-08-15 17:55:10] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:10] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:55:10] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:10] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:55:10] ----------------Iniciando Intancias---------------
+[2015-08-15 17:55:10] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:10] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:55:10] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:10] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 17:55:10] ----------------Iniciando Intancias---------------
+[2015-08-15 17:55:10] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:10] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 17:55:10] Verificando URL -> localhost/CafeMomentos//CafeMomentos/
+[2015-08-15 17:55:10] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 18:01:41] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:41] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:41] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:41] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:41] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:41] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:41] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:41] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:41] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:41] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:41] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:41] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:41] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:41] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:41] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:41] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:41] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:41] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:41] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:41] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:41] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:41] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:41] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:41] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:41] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:41] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:41] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:41] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:41] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:41] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:41] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:41] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:41] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:41] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:41] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:42] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:42] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:42] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:42] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:42] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:42] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:42] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:42] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:42] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:42] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:42] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:42] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:42] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:42] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:42] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:42] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:42] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:42] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:42] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:42] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:42] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:42] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:42] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:42] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:42] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:42] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:42] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:42] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:42] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:42] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:42] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:42] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:42] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:42] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:42] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:47] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:47] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:47] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:47] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:47] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:47] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:47] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:47] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:47] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:47] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:47] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:47] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:47] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:47] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:47] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:47] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:47] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:47] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:47] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:47] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:47] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:47] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:47] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:47] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:47] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:47] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:47] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:47] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:47] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:47] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:01:47] ----------------Iniciando Intancias---------------
+[2015-08-15 18:01:47] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:47] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:01:47] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:01:47] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:02:17] ----------------Iniciando Intancias---------------
+[2015-08-15 18:02:17] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:02:17] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:02:17] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:02:17] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:02:17] ----------------Iniciando Intancias---------------
+[2015-08-15 18:02:17] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:02:17] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:02:17] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:02:17] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:02:18] ----------------Iniciando Intancias---------------
+[2015-08-15 18:02:18] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:02:18] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:02:18] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:02:18] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:02:18] ----------------Iniciando Intancias---------------
+[2015-08-15 18:02:18] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:02:18] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:02:18] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:02:18] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:02:18] ----------------Iniciando Intancias---------------
+[2015-08-15 18:02:18] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:02:18] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:02:18] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:02:18] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:02:18] ----------------Iniciando Intancias---------------
+[2015-08-15 18:02:18] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:02:18] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:02:18] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:02:18] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:02:18] ----------------Iniciando Intancias---------------
+[2015-08-15 18:02:18] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:02:18] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:02:18] Verificando URL -> 192.168.64.127/CafeMomentos//CafeMomentos/
+[2015-08-15 18:02:18] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:03:17] ----------------Iniciando Intancias---------------
+[2015-08-15 18:03:17] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:03:17] ----------------Iniciando Intancias---------------
+[2015-08-15 18:03:17] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:03:17] ----------------Iniciando Intancias---------------
+[2015-08-15 18:03:17] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:03:17] ----------------Iniciando Intancias---------------
+[2015-08-15 18:03:17] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:03:17] ----------------Iniciando Intancias---------------
+[2015-08-15 18:03:17] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:03:17] ----------------Iniciando Intancias---------------
+[2015-08-15 18:03:17] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:03:17] ----------------Iniciando Intancias---------------
+[2015-08-15 18:03:17] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:03:17] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:04:18] ----------------Iniciando Intancias---------------
+[2015-08-15 18:04:18] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:04:18] ----------------Iniciando Intancias---------------
+[2015-08-15 18:04:18] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:04:18] ----------------Iniciando Intancias---------------
+[2015-08-15 18:04:18] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:04:18] ----------------Iniciando Intancias---------------
+[2015-08-15 18:04:18] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:04:18] ----------------Iniciando Intancias---------------
+[2015-08-15 18:04:18] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:04:18] ----------------Iniciando Intancias---------------
+[2015-08-15 18:04:18] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:04:18] ----------------Iniciando Intancias---------------
+[2015-08-15 18:04:18] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:04:18] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:06:36] ----------------Iniciando Intancias---------------
+[2015-08-15 18:06:36] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:36] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:36] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:36] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:06:36] ----------------Iniciando Intancias---------------
+[2015-08-15 18:06:36] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:36] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:36] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:36] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:06:37] ----------------Iniciando Intancias---------------
+[2015-08-15 18:06:37] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:37] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:37] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:37] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:06:37] ----------------Iniciando Intancias---------------
+[2015-08-15 18:06:37] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:37] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:37] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:37] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:06:37] ----------------Iniciando Intancias---------------
+[2015-08-15 18:06:37] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:37] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:37] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:37] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:06:37] ----------------Iniciando Intancias---------------
+[2015-08-15 18:06:37] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:37] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:37] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:37] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:06:37] ----------------Iniciando Intancias---------------
+[2015-08-15 18:06:37] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:37] URL solicitada -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:37] Verificando URL -> 192.168.64.127/CafeMomentos/
+[2015-08-15 18:06:37] Redireccionando -> http://192.168.64.127/CafeMomentos/home
+[2015-08-15 18:07:13] ----------------Iniciando Intancias---------------
+[2015-08-15 18:07:13] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 18:07:13] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 18:07:13] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 18:07:13] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 18:07:13] ----------------Iniciando Intancias---------------
+[2015-08-15 18:07:13] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 18:07:13] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 18:07:13] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 18:07:13] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 18:07:13] ----------------Iniciando Intancias---------------
+[2015-08-15 18:07:13] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 18:07:13] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 18:07:13] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 18:07:13] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 18:07:13] ----------------Iniciando Intancias---------------
+[2015-08-15 18:07:13] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 18:07:13] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 18:07:13] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 18:07:13] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 18:07:13] ----------------Iniciando Intancias---------------
+[2015-08-15 18:07:13] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 18:07:13] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 18:07:13] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 18:07:13] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 18:07:14] ----------------Iniciando Intancias---------------
+[2015-08-15 18:07:14] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 18:07:14] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 18:07:14] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 18:07:14] Redireccionando -> http://localhost/CafeMomentos/home
+[2015-08-15 18:07:14] ----------------Iniciando Intancias---------------
+[2015-08-15 18:07:14] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 18:07:14] URL solicitada -> localhost/CafeMomentos/
+[2015-08-15 18:07:14] Verificando URL -> localhost/CafeMomentos/
+[2015-08-15 18:07:14] Redireccionando -> http://localhost/CafeMomentos/home

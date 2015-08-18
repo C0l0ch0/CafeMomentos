@@ -1,0 +1,428 @@
+[2015-08-17 08:47:07] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 08:47:07] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 08:47:44] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 08:47:44] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 08:47:44] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 08:47:44] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 08:47:44] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 08:47:44] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 08:47:44] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 08:47:44] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 08:48:07] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 08:48:07] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 08:48:07] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 08:48:07] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 08:48:07] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 08:48:07] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 08:48:07] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 08:48:07] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 08:48:16] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 08:48:16] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 08:48:16] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 08:48:16] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 08:48:16] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 08:48:16] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 08:48:16] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 08:48:16] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:15:36] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:15:36] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:15:36] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:15:36] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:15:36] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:15:36] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:15:36] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:15:36] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:16:32] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:16:32] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:16:32] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:16:32] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:16:33] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:16:33] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:16:33] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:16:33] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:17:17] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:17:17] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:17:17] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:17:17] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:17:17] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:17:17] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:17:17] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:17:17] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:17:22] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:17:22] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:17:22] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:17:22] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:17:22] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:17:22] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:17:22] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:17:22] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:19:37] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:19:37] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:19:37] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:19:37] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:19:37] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:19:37] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:19:37] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:19:37] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:19:58] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:19:58] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:19:58] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:19:58] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:19:58] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:19:58] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:19:58] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:19:58] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:20:50] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:20:50] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:20:50] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:20:50] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:20:50] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:20:50] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:20:50] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:20:50] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:20:54] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:20:54] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:20:54] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:20:54] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:20:54] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:20:54] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:20:54] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:20:54] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:21:09] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:21:09] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:21:09] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:21:09] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:21:09] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:21:09] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:21:09] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:21:09] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:21:17] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:21:17] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:21:17] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:21:17] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:21:17] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:21:17] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:21:17] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:21:17] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:21:52] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:21:52] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:21:52] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:21:52] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:21:52] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:21:52] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:21:52] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:21:52] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:28:05] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:28:05] localhost/CafeMomentos/home validando localhost/CafeMomentos/
+[2015-08-17 20:28:05] Cargando Start_Page()
+[2015-08-17 20:28:05] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:28:05] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:28:05] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:28:05] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:28:05] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:05] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:05] localhost/CafeMomentos/home validando localhost/CafeMomentos/
+[2015-08-17 20:29:05] Cargando Start_Page()
+[2015-08-17 20:29:05] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:05] Cargando clase: home, Metodo: start
+[2015-08-17 20:29:05] Cargando template -> home/index.php
+[2015-08-17 20:29:06] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:06] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:06] localhost/CafeMomentos/home/GetGaleryDiv validando localhost/CafeMomentos/
+[2015-08-17 20:29:06] Cargando Start_Page()
+[2015-08-17 20:29:06] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:06] localhost/CafeMomentos/home/GetEventsDiv validando localhost/CafeMomentos/
+[2015-08-17 20:29:06] Cargando Start_Page()
+[2015-08-17 20:29:06] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:06] Cargando clase: home, Metodo: GetGaleryDiv
+[2015-08-17 20:29:06] Cargando clase: home, Metodo: GetEventsDiv
+[2015-08-17 20:29:06] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:06] localhost/CafeMomentos/home/GetAboutDiv validando localhost/CafeMomentos/
+[2015-08-17 20:29:06] Cargando Start_Page()
+[2015-08-17 20:29:06] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:06] Cargando clase: home, Metodo: GetAboutDiv
+[2015-08-17 20:29:06] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:06] localhost/CafeMomentos/home/GetHomeDiv validando localhost/CafeMomentos/
+[2015-08-17 20:29:06] Cargando Start_Page()
+[2015-08-17 20:29:06] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:06] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:06] localhost/CafeMomentos/home/GetRecipesDiv validando localhost/CafeMomentos/
+[2015-08-17 20:29:06] Cargando Start_Page()
+[2015-08-17 20:29:06] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:06] Cargando clase: home, Metodo: GetRecipesDiv
+[2015-08-17 20:29:06] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:06] localhost/CafeMomentos/home/GetContactDiv validando localhost/CafeMomentos/
+[2015-08-17 20:29:06] Cargando Start_Page()
+[2015-08-17 20:29:06] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:06] Cargando clase: home, Metodo: GetContactDiv
+[2015-08-17 20:29:06] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:06] localhost/CafeMomentos/home/GetVideosDiv validando localhost/CafeMomentos/
+[2015-08-17 20:29:06] Cargando Start_Page()
+[2015-08-17 20:29:06] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:06] Cargando clase: home, Metodo: GetVideosDiv
+[2015-08-17 20:29:06] Cargando clase: home, Metodo: GetHomeDiv
+[2015-08-17 20:29:07] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:07] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:29:07] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:29:07] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:07] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:07] localhost/CafeMomentos/home validando localhost/CafeMomentos/
+[2015-08-17 20:29:07] Cargando Start_Page()
+[2015-08-17 20:29:07] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:07] Cargando clase: home, Metodo: start
+[2015-08-17 20:29:07] Cargando template -> home/index.php
+[2015-08-17 20:29:27] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:27] localhost/CafeMomentos/home validando localhost/CafeMomentos/
+[2015-08-17 20:29:27] Cargando Start_Page()
+[2015-08-17 20:29:27] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:27] Cargando clase: home, Metodo: start
+[2015-08-17 20:29:27] Cargando template -> home/index.php
+[2015-08-17 20:29:28] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:28] localhost/CafeMomentos/home/GetHomeDiv validando localhost/CafeMomentos/
+[2015-08-17 20:29:28] Cargando Start_Page()
+[2015-08-17 20:29:28] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:28] Cargando clase: home, Metodo: GetHomeDiv
+[2015-08-17 20:29:28] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:28] localhost/CafeMomentos/home/GetAboutDiv validando localhost/CafeMomentos/
+[2015-08-17 20:29:28] Cargando Start_Page()
+[2015-08-17 20:29:28] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:28] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:28] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:28] localhost/CafeMomentos/home/GetGaleryDiv validando localhost/CafeMomentos/
+[2015-08-17 20:29:28] localhost/CafeMomentos/home/GetEventsDiv validando localhost/CafeMomentos/
+[2015-08-17 20:29:28] Cargando Start_Page()
+[2015-08-17 20:29:28] Cargando clase: home, Metodo: GetAboutDiv
+[2015-08-17 20:29:28] Cargando Start_Page()
+[2015-08-17 20:29:28] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:28] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:28] Cargando clase: home, Metodo: GetGaleryDiv
+[2015-08-17 20:29:28] Cargando clase: home, Metodo: GetEventsDiv
+[2015-08-17 20:29:28] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:28] localhost/CafeMomentos/home/GetRecipesDiv validando localhost/CafeMomentos/
+[2015-08-17 20:29:28] Cargando Start_Page()
+[2015-08-17 20:29:28] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:28] Cargando clase: home, Metodo: GetRecipesDiv
+[2015-08-17 20:29:28] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:28] localhost/CafeMomentos/home/GetContactDiv validando localhost/CafeMomentos/
+[2015-08-17 20:29:28] Cargando Start_Page()
+[2015-08-17 20:29:28] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:28] Cargando clase: home, Metodo: GetContactDiv
+[2015-08-17 20:29:28] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:28] localhost/CafeMomentos/home/GetVideosDiv validando localhost/CafeMomentos/
+[2015-08-17 20:29:28] Cargando Start_Page()
+[2015-08-17 20:29:28] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:28] Cargando clase: home, Metodo: GetVideosDiv
+[2015-08-17 20:29:28] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:28] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:29:28] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:29:28] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:28] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:29:28] localhost/CafeMomentos/home validando localhost/CafeMomentos/
+[2015-08-17 20:29:28] Cargando Start_Page()
+[2015-08-17 20:29:28] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:29:28] Cargando clase: home, Metodo: start
+[2015-08-17 20:29:28] Cargando template -> home/index.php
+[2015-08-17 20:31:26] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:31:26] localhost/CafeMomentos/home validando localhost/CafeMomentos/
+[2015-08-17 20:31:26] Cargando Start_Page()
+[2015-08-17 20:31:26] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:31:26] Cargando clase: home, Metodo: start
+[2015-08-17 20:31:26] Cargando template -> home/index.php
+[2015-08-17 20:31:27] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:31:27] localhost/CafeMomentos/home/GetHomeDiv validando localhost/CafeMomentos/
+[2015-08-17 20:31:27] Cargando Start_Page()
+[2015-08-17 20:31:27] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:31:27] Cargando clase: home, Metodo: GetHomeDiv
+[2015-08-17 20:31:27] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:31:27] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:31:27] localhost/CafeMomentos/home/GetGaleryDiv validando localhost/CafeMomentos/
+[2015-08-17 20:31:27] localhost/CafeMomentos/home/GetVideosDiv validando localhost/CafeMomentos/
+[2015-08-17 20:31:27] Cargando Start_Page()
+[2015-08-17 20:31:27] Cargando Start_Page()
+[2015-08-17 20:31:27] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:31:27] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:31:27] Cargando clase: home, Metodo: GetVideosDiv
+[2015-08-17 20:31:27] Cargando clase: home, Metodo: GetGaleryDiv
+[2015-08-17 20:31:27] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:31:27] localhost/CafeMomentos/home/GetRecipesDiv validando localhost/CafeMomentos/
+[2015-08-17 20:31:27] Cargando Start_Page()
+[2015-08-17 20:31:27] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:31:27] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:31:27] localhost/CafeMomentos/home/GetContactDiv validando localhost/CafeMomentos/
+[2015-08-17 20:31:27] Cargando Start_Page()
+[2015-08-17 20:31:27] Cargando clase: home, Metodo: GetRecipesDiv
+[2015-08-17 20:31:27] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:31:27] Cargando clase: home, Metodo: GetContactDiv
+[2015-08-17 20:31:27] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:31:27] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:31:27] localhost/CafeMomentos/home/GetEventsDiv validando localhost/CafeMomentos/
+[2015-08-17 20:31:27] localhost/CafeMomentos/home/GetAboutDiv validando localhost/CafeMomentos/
+[2015-08-17 20:31:27] Cargando Start_Page()
+[2015-08-17 20:31:27] Cargando Start_Page()
+[2015-08-17 20:31:27] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:31:27] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:31:27] Cargando clase: home, Metodo: GetAboutDiv
+[2015-08-17 20:31:27] Cargando clase: home, Metodo: GetEventsDiv
+[2015-08-17 20:31:27] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:31:27] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:31:27] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:31:27] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:31:27] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:31:27] localhost/CafeMomentos/home validando localhost/CafeMomentos/
+[2015-08-17 20:31:27] Cargando Start_Page()
+[2015-08-17 20:31:27] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:31:27] Cargando clase: home, Metodo: start
+[2015-08-17 20:31:27] Cargando template -> home/index.php
+[2015-08-17 20:32:21] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:32:21] localhost/CafeMomentos/home validando localhost/CafeMomentos/
+[2015-08-17 20:32:21] Cargando Start_Page()
+[2015-08-17 20:32:21] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:32:21] Cargando clase: home, Metodo: start
+[2015-08-17 20:32:21] Cargando template -> home/index.php
+[2015-08-17 20:32:21] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:32:21] localhost/CafeMomentos/home/GetHomeDiv validando localhost/CafeMomentos/
+[2015-08-17 20:32:21] Cargando Start_Page()
+[2015-08-17 20:32:21] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:32:21] Cargando clase: home, Metodo: GetHomeDiv
+[2015-08-17 20:32:21] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:32:21] localhost/CafeMomentos/home/GetAboutDiv validando localhost/CafeMomentos/
+[2015-08-17 20:32:21] Cargando Start_Page()
+[2015-08-17 20:32:21] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:32:21] Cargando clase: home, Metodo: GetAboutDiv
+[2015-08-17 20:32:21] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:32:21] localhost/CafeMomentos/home/GetEventsDiv validando localhost/CafeMomentos/
+[2015-08-17 20:32:21] Cargando Start_Page()
+[2015-08-17 20:32:21] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:32:21] Cargando clase: home, Metodo: GetEventsDiv
+[2015-08-17 20:32:21] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:32:21] localhost/CafeMomentos/home/GetGaleryDiv validando localhost/CafeMomentos/
+[2015-08-17 20:32:21] Cargando Start_Page()
+[2015-08-17 20:32:21] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:32:21] Cargando clase: home, Metodo: GetGaleryDiv
+[2015-08-17 20:32:21] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:32:21] localhost/CafeMomentos/home/GetVideosDiv validando localhost/CafeMomentos/
+[2015-08-17 20:32:21] Cargando Start_Page()
+[2015-08-17 20:32:21] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:32:21] Cargando clase: home, Metodo: GetVideosDiv
+[2015-08-17 20:32:21] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:32:21] localhost/CafeMomentos/home/GetRecipesDiv validando localhost/CafeMomentos/
+[2015-08-17 20:32:21] Cargando Start_Page()
+[2015-08-17 20:32:21] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:32:21] Cargando clase: home, Metodo: GetRecipesDiv
+[2015-08-17 20:32:21] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:32:21] localhost/CafeMomentos/home/GetContactDiv validando localhost/CafeMomentos/
+[2015-08-17 20:32:21] Cargando Start_Page()
+[2015-08-17 20:32:21] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:32:21] Cargando clase: home, Metodo: GetContactDiv
+[2015-08-17 20:32:22] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:32:22] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:32:22] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:32:22] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:32:22] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:32:22] localhost/CafeMomentos/home validando localhost/CafeMomentos/
+[2015-08-17 20:32:22] Cargando Start_Page()
+[2015-08-17 20:32:22] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:32:22] Cargando clase: home, Metodo: start
+[2015-08-17 20:32:22] Cargando template -> home/index.php
+[2015-08-17 20:34:09] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:09] localhost/CafeMomentos/home validando localhost/CafeMomentos/
+[2015-08-17 20:34:09] Cargando Start_Page()
+[2015-08-17 20:34:09] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:09] Cargando clase: home, Metodo: start
+[2015-08-17 20:34:09] Cargando template -> home/index.php
+[2015-08-17 20:34:09] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:09] localhost/CafeMomentos/home/GetHomeDiv validando localhost/CafeMomentos/
+[2015-08-17 20:34:09] Cargando Start_Page()
+[2015-08-17 20:34:09] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:09] Cargando clase: home, Metodo: GetHomeDiv
+[2015-08-17 20:34:09] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:09] localhost/CafeMomentos/home/GetAboutDiv validando localhost/CafeMomentos/
+[2015-08-17 20:34:09] Cargando Start_Page()
+[2015-08-17 20:34:09] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:09] Cargando clase: home, Metodo: GetAboutDiv
+[2015-08-17 20:34:09] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:09] localhost/CafeMomentos/home/GetGaleryDiv validando localhost/CafeMomentos/
+[2015-08-17 20:34:09] Cargando Start_Page()
+[2015-08-17 20:34:09] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:09] Cargando clase: home, Metodo: GetGaleryDiv
+[2015-08-17 20:34:09] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:09] localhost/CafeMomentos/home/GetVideosDiv validando localhost/CafeMomentos/
+[2015-08-17 20:34:09] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:09] Cargando Start_Page()
+[2015-08-17 20:34:09] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:09] localhost/CafeMomentos/home/GetRecipesDiv validando localhost/CafeMomentos/
+[2015-08-17 20:34:09] Cargando Start_Page()
+[2015-08-17 20:34:09] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:09] Cargando clase: home, Metodo: GetVideosDiv
+[2015-08-17 20:34:09] Cargando clase: home, Metodo: GetRecipesDiv
+[2015-08-17 20:34:09] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:09] localhost/CafeMomentos/home/GetContactDiv validando localhost/CafeMomentos/
+[2015-08-17 20:34:09] Cargando Start_Page()
+[2015-08-17 20:34:09] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:09] Cargando clase: home, Metodo: GetContactDiv
+[2015-08-17 20:34:09] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:09] localhost/CafeMomentos/home/GetEventsDiv validando localhost/CafeMomentos/
+[2015-08-17 20:34:09] Cargando Start_Page()
+[2015-08-17 20:34:09] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:09] Cargando clase: home, Metodo: GetEventsDiv
+[2015-08-17 20:34:10] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:10] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:34:10] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:34:10] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:10] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:10] localhost/CafeMomentos/home validando localhost/CafeMomentos/
+[2015-08-17 20:34:10] Cargando Start_Page()
+[2015-08-17 20:34:10] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:10] Cargando clase: home, Metodo: start
+[2015-08-17 20:34:10] Cargando template -> home/index.php
+[2015-08-17 20:34:28] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:28] localhost/CafeMomentos/home validando localhost/CafeMomentos/
+[2015-08-17 20:34:28] Cargando Start_Page()
+[2015-08-17 20:34:28] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:28] Cargando clase: home, Metodo: start
+[2015-08-17 20:34:28] Cargando template -> home/index.php
+[2015-08-17 20:34:28] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:28] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:28] localhost/CafeMomentos/home/GetGaleryDiv validando localhost/CafeMomentos/
+[2015-08-17 20:34:28] localhost/CafeMomentos/home/GetHomeDiv validando localhost/CafeMomentos/
+[2015-08-17 20:34:28] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:28] Cargando Start_Page()
+[2015-08-17 20:34:28] Cargando Start_Page()
+[2015-08-17 20:34:28] localhost/CafeMomentos/home/GetEventsDiv validando localhost/CafeMomentos/
+[2015-08-17 20:34:28] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:28] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:28] Cargando Start_Page()
+[2015-08-17 20:34:28] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:28] Cargando clase: home, Metodo: GetGaleryDiv
+[2015-08-17 20:34:28] Cargando clase: home, Metodo: GetHomeDiv
+[2015-08-17 20:34:28] Cargando clase: home, Metodo: GetEventsDiv
+[2015-08-17 20:34:28] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:28] localhost/CafeMomentos/home/GetAboutDiv validando localhost/CafeMomentos/
+[2015-08-17 20:34:28] Cargando Start_Page()
+[2015-08-17 20:34:28] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:28] Cargando clase: home, Metodo: GetAboutDiv
+[2015-08-17 20:34:28] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:28] localhost/CafeMomentos/home/GetVideosDiv validando localhost/CafeMomentos/
+[2015-08-17 20:34:28] Cargando Start_Page()
+[2015-08-17 20:34:28] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:28] Cargando clase: home, Metodo: GetVideosDiv
+[2015-08-17 20:34:28] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:28] localhost/CafeMomentos/home/GetRecipesDiv validando localhost/CafeMomentos/
+[2015-08-17 20:34:28] Cargando Start_Page()
+[2015-08-17 20:34:28] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:28] Cargando clase: home, Metodo: GetRecipesDiv
+[2015-08-17 20:34:28] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:28] localhost/CafeMomentos/home/GetContactDiv validando localhost/CafeMomentos/
+[2015-08-17 20:34:28] Cargando Start_Page()
+[2015-08-17 20:34:28] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:28] Cargando clase: home, Metodo: GetContactDiv
+[2015-08-17 20:34:29] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:29] localhost/CafeMomentos/ validando localhost/CafeMomentos/
+[2015-08-17 20:34:29] Redireccionando -> Location: http://localhost/CafeMomentos/home
+[2015-08-17 20:34:29] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:29] --------------------------------------Main Page Start---------------------------------------
+[2015-08-17 20:34:29] localhost/CafeMomentos/home validando localhost/CafeMomentos/
+[2015-08-17 20:34:29] Cargando Start_Page()
+[2015-08-17 20:34:29] --------------------------------------Main Page End-----------------------------------------
+[2015-08-17 20:34:29] Cargando clase: home, Metodo: start
+[2015-08-17 20:34:29] Cargando template -> home/index.php
